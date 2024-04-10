@@ -1,4 +1,4 @@
-package com.creamy.springcoredemo;
+package com.creamy.springcoredemo.common;
 
 public interface Coach {
     String getDailyWorkout();
